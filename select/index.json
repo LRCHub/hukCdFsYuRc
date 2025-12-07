@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Life is Romance",
+  "base_artist": "Kaneee",
+  "createdAt": "2025-12-07T06:31:43.717527Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Life is Romance",
+      "artist": "Kaneee",
+      "has_synced": false,
+      "path": "select/01_Life_is_Romance_Kaneee.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Life is Romance",
+      "artist": "Kaneee",
+      "has_synced": true,
+      "path": "select/02_Life_is_Romance_Kaneee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Life is Romance",
+      "artist": "Kaneee",
+      "has_synced": false,
+      "path": "select/pl_01_Life_is_Romance_Kaneee.txt"
+    }
+  ]
+}
